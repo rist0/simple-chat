@@ -1,0 +1,27 @@
+Form Button {
+  width: 100%;
+}
+
+hr.line {
+  border: 1px solid #313131;
+  width: 100%;
+}
+
+.message-container {
+  height: 500px;
+  overflow: auto;
+}
+
+.user-message {
+  font-size: 18px;
+}
+
+.message {
+  display: inline-flex;
+  margin: 0px auto 0px auto;
+  font-size: 18px;
+}
+
+.user-name {
+  font-size: small;
+}
